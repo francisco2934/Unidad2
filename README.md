@@ -30,3 +30,17 @@ El código permite que Mickey Mouse interactúe con el entorno de manera diverti
 |Software|version|
 |--|--|
 |Thonny|	3.3.0|
+
+
+
+
+
+
+## Imagen de la captura de cisco Python
+
+
+![image](https://github.com/user-attachments/assets/f98d62de-7c0d-4bfa-a74b-4395530532d2)
+![image](https://github.com/user-attachments/assets/5437f9da-dfc9-4e78-b458-1b15e5e41010)
+![image](https://github.com/user-attachments/assets/fc60238a-0794-4c7a-aeb2-d73296356b8e)
+![image](https://github.com/user-attachments/assets/732fb939-0303-41f4-ab8a-dbd4b709205e)
+![image](https://github.com/user-attachments/assets/4f1d2dae-f3d7-43ca-a581-a7f5bfbf0f96)
