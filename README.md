@@ -38,7 +38,8 @@ https://wokwi.com/projects/420476867650120705
 ## Videos de practicas de clase
 https://drive.google.com/drive/folders/1fvg5iQsfrLAGnyksl76WLwoRzDL3q6rc?usp=drive_link
 
-
+## Codigos de trabajo
+https://drive.google.com/drive/folders/171zn36psmJt-UC77UmAk0RNVkodtgoX-?usp=drive_link
 
 ## Imagen de la captura de cisco Python
 
