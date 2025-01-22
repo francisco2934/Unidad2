@@ -32,7 +32,11 @@ El código permite que Mickey Mouse interactúe con el entorno de manera diverti
 |Thonny|	3.3.0|
 
 
+## Enlaces de la simulacion de wokwi de personaje:
+https://wokwi.com/projects/420476867650120705
 
+## Videos de practicas de clase
+https://drive.google.com/drive/folders/1fvg5iQsfrLAGnyksl76WLwoRzDL3q6rc?usp=drive_link
 
 
 
